@@ -6,4 +6,4 @@
  
  # Screenshot
  
-![Screenshot 2023-04-18 204729](https://user-images.githubusercontent.com/29508011/232824605-3a206a61-6f9c-4c4b-be02-7b15ceb9db93.png)
+![Screenshot 2023-04-18 205652](https://user-images.githubusercontent.com/29508011/232826191-80bf9e8a-89d1-496c-993e-ece2f58bea08.png)
